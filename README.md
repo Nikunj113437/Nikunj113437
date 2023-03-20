@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/461802/screenshots/4753031/media/5c394506444d16d39a64d87b07dcbf21.gif)
+![MasterHead](https://cdn.dribbble.com/users/461802/screenshots/4753031/media/5c394506444d16d39a64d87b07dcbf21.gif)
 <h1 align="center">Hi 👋, I'm Nikunj Bansal</h1>
 <h3 align="center">Revolutionizing Insights with the Enchantment of Machine Learning</h3>
 <img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
