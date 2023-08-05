@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikunj113437&label=Profile%20views&color=0e75b6&style=flat" alt="nikunj113437" /> </p>
 
-- 🌱 I’m currently exploring **Image Processing using Machine Learning Techniques and AI**
+- 🌱 I’m currently exploring **LangChain and LLMs (Large Language Models)**
 
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning and NLP Projects**
+- 👯 I’m looking to collaborate on **LangChain, Data Science, Machine Learning and NLP Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nikunj113437](https://github.com/Nikunj113437)
 
-- 💬 Ask me about **Data Preprocessing Techniques, Sampling Techniques, Machine Learning Algorithms**
+- 💬 Ask me about **LLMs, Prompt Injection, Sampling Techniques, Machine Learning Algorithms**
 
 - 📫 How to reach me **nikunjbansal0562@gmail.com**
 
